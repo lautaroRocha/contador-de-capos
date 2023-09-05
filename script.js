@@ -1,3 +1,4 @@
+//este es un ejemplo
 let tolerance = true;
 const result = document.querySelector('#result')
 let amountOfBoludos = 0;
